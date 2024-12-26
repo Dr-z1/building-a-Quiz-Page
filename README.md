@@ -2,7 +2,7 @@
 
 ## **Project Overview**
 
-#### This Project Is A **Nutrition Label**, Developed As Part of The FreeCodeCamp Curriculum. 
+#### This Project Is A **Quiz Webpage**, Developed As Part of The FreeCodeCamp Curriculum. 
 
 #### The Primary Goal Is Learn Accessibility By Building A Quiz Webpage.
 
