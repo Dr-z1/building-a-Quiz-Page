@@ -1,32 +1,46 @@
-# building-a-Quiz-Page
+# **Quiz Webpage Project**
 
-This website was built using Free Code Camp instructions: Learn Accessibility By Building a Quiz
+## **Project Overview**
 
-Section: Responsive Web Design
+#### This Project Is A **Nutrition Label**, Developed As Part of The FreeCodeCamp Curriculum. 
 
-Course Name: Learn Accessibility By Building a Quiz
+#### The Primary Goal Is Learn Accessibility By Building A Quiz Webpage.
 
-Deatils:
+## **Course Details**
 
-Accessibility is making your webpage easy for all people to use – even people with disabilities.
++ **Course Section**: Responsive Web Design.
+  
++ **Project Name**:  Quiz Webpage.
+  
++ This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
+  
++ This Project Is One of The **Required Tasks** To Earn The Certification In Responsive Web Design.
 
-In this course, you'll build a quiz webpage. You'll learn accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices.
+## **Purpose**
 
-Link:
+Accessibility Is Making Your Webpage Easy For All People To Use – Even People With Disabilities.  
 
-https://www.freecodecamp.org/
+In This Course, You'll Build A Quiz Webpage. 
 
+You'll Learn Accessibility Tools Such As Keyboard Shortcuts, ARIA Attributes, And Design Best Practices.
 
+## **Acknowledgment**
 
+This Project Was Created Following The Instructions Provided By **FreeCodeCamp**.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**All rights** To This Project And Its Related Materials Belong To **FreeCodeCamp**, A Free Educational Platform Offering Structured Courses And Hands-on Projects.
 
+I Am Showcasing This Project As Part of My Learning Journey, Completed Based on FreeCodeCamp's Resources And Guidance.
 
-This WebSite or Project Was Built Using The Instructions of The Free Code Camp  WebSite.
+A Big Thank You To **FreeCodeCamp** For Their Well-Structured Curriculum, Projects, And Partially Provided Code Snippets That Made This Project Possible.
 
-Therefore, All Rights In This WebSite or Project Belong To The Free Code Camp Site, A Free Educational Site That Contains Many Projects.
+## **Special Thanks**
 
-I Am Only Reviewing The Project After Building It From Their Site, So The Project Does Not Belong To Me.
+I Would Also Like To Extend **My Gratitude** To The Following Channels For Their Guidance In Writing The Code:
 
-I Would Like To thank The Educational Website Free Code Camp For Teaching Me By Providing Projects , Instructions , And Part of The Codes
+**[@codeManS](https://www.youtube.com/@codeManS)**
+
+**[@landonschlangen](https://www.youtube.com/@landonschlangen)**
+
+These Resources Provided Valuable Insights And Helped Me Refine My Coding Skills.
 
